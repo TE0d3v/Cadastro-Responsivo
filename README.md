@@ -45,7 +45,7 @@ O conteúdo do formulário, como os rótulos dos campos e as opções de gênero
 
 ## Créditos
 
-- **Autor**: [Seu Nome](https://github.com/TE0d3v)
+- **Autor**: [Pedro Henrique](https://github.com/TE0d3v)
 - **Bibliotecas Usadas**: Nenhuma, apenas HTML e CSS puros.
 - **Fonte Usada**: Google Fonts (Inter, Open Sans)
 
